@@ -1,0 +1,8 @@
+Création de smart city: lié la robotique à IA
+collection de données à l'aide des capteurs pour l'entrainement de modèle
+temperature, humidité 
+un modèle optimisé
+prevision meteorologique
+
+Gonogo: description de notre smart city : methode de collecte de collete, deploiement , diagrame de sequence(depuis l'appareil de collecte jusqu'au deploiement avec l'interaction de user), de cas d'utilisartion, trouvé lescapteurs lors du gonogo, le système
+Use blockchain, like apporter de la valeur ajouté
